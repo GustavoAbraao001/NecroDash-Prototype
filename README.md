@@ -6,14 +6,6 @@ O projeto foi desenvolvido como um MVP (Mínimo Produto Viável) focado em entre
 
 ---
 
-## 🌌 Sinopse e Universo
-
-No vazio implacável do espaço profundo, a velocidade é a sua única aliada. Em **Necro Dash**, você assume o controle de um viajante solitário equipado com um traje propulsor de alta tecnologia, navegando por setores perigosos dominados por anomalias cósmicas e forças hostis. 
-
-O objetivo é simples, mas desafiador: sobreviver o maior tempo possível, quebrar recordes de distância e usar a energia acumulada do seu propulsor para obliterar qualquer inimigo que ousar entrar no seu caminho. No espaço, parar significa o fim.
-
----
-
 ## 🎮 Proposta de Jogabilidade
 
 * **Ação Ininterrupta:** O jogo mantém um ritmo acelerado onde cada segundo exige reflexos rápidos para desviar de barreiras e perigos estruturais no cenário.
